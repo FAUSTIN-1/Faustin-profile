@@ -21,7 +21,7 @@
 - **Microsoft Office**
 - **SAP**
 - **GoogleSuite**
-- **Soft Skills**: Time Management, Critical Thinking, Teamwork
+- **Soft Skills**: Time Management, Critical Thinking, & Teamwork
 - **First Aid**: Certified First Aider
 
 **Contact Information:**
