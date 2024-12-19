@@ -1,3 +1,5 @@
+# ![Profile Picture](https://imgur.com/d6zAAqu)
+
 # **FAUSTIN NIZEYIMANA**
 
 **Born:** February 28, 1998  
@@ -26,4 +28,3 @@
 - **Email**: faustin@tuta.io 
 - **LinkedIn**: [[LinkedIn](https://www.linkedin.com/in/faustin-nizeyimana-8aab85259?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BL0EyhcJBRHGlX%2FdQeUBS%2Bg%3D%3D)]
 - **WhatsApp**: [[WhatsApp](https://wa.me/250784885925)]
-
