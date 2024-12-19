@@ -1,4 +1,4 @@
-# <img src="123.jpg" alt="Profile Picture" width="150" align="left">
+# <img src="https://www.simpleimageresizer.com/_uploads/photos/aac89224/123_50.jpg" alt="Profile Picture" width="150" align="left">
 
 # **FAUSTIN NIZEYIMANA**
 **Born:** February 28, 1998  
