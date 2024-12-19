@@ -25,7 +25,7 @@
 - **First Aid**: Certified First Aider
 
 **Contact Information:**
-- **Email**: [faustin@tuta.io] 
+- **Email**: [faustin@tuta.iO ] 
 - **LinkedIn**: [[LinkedIn](https://www.linkedin.com/in/faustin-nizeyimana-8aab85259?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BL0EyhcJBRHGlX%2FdQeUBS%2Bg%3D%3D)]
 - **WhatsApp**: [[WhatsApp](https://wa.me/250784885925)]
 - **Curriculum Vitae**: [[Resume ](https://drive.google.com/file/d/1CuEdONOHgb1X0ftEkk8mDiOK6217WA9H/view?usp=sharing)]
