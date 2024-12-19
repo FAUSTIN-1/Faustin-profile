@@ -1,4 +1,4 @@
-# ![Profile Picture](https://github.com/FAUSTIN-1/Faustin-profile/blob/main/123.jpg)
+# <img src="https://github.com/FAUSTIN-1/Faustin-profile/blob/main/123.jpg" alt="Profile Picture" width="150" align="left">
 
 # **FAUSTIN NIZEYIMANA**
 
@@ -19,8 +19,8 @@
 **Skills:**
 - **Statistical Software**: STATA, SPSS, R-Studio, 
 - **Microsoft Office**
--  **SAP**
--   **GoogleSuite**
+- **SAP**
+- **GoogleSuite**
 - **Soft Skills**: Time Management, Critical Thinking, Teamwork
 - **First Aid**: Certified First Aider
 
