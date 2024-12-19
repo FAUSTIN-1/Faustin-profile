@@ -1,9 +1,9 @@
-# <img src="https://github.com/FAUSTIN-1/Faustin-profile/blob/main/123.jpg" alt="Profile Picture" width="150" align="left">
+# <img src="https://github.com/FAUSTIN-1/Faustin-profile/blob/main/123.jpg" alt="Profile Picture" width="150" align="Right">
 
 # **FAUSTIN NIZEYIMANA**
 
 **Born:** February 28, 1998  
-**Location:** Ruhango District, Southern Province, Rwanda  
+**Location:** Ruhango District, Southern Province, Rwanda 
 **Current Residence:** KK 686 St. Kigali
 
 **Education:**
