@@ -1,4 +1,4 @@
-# ![Profile Picture](https://imgur.com/d6zAAqu)
+# ![Profile Picture](https://github.com/FAUSTIN-1/Faustin-profile/blob/main/123.jpg)
 
 # **FAUSTIN NIZEYIMANA**
 
