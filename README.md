@@ -17,7 +17,7 @@
 - **Advisor**: District University Student Association at Ruhango District (2021-2023)
 
 **Skills:**
-- **Statistical Software**: STATA, SPSS, R-Studio, 
+- **Statistical Software**: STATA, SPSS, & R-Studio
 - **Microsoft Office**
 - **SAP**
 - **GoogleSuite**
