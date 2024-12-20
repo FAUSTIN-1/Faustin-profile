@@ -1,4 +1,3 @@
-# <img src="https://github.com/FAUSTIN-1/Faustin-profile/blob/main/123.jpg" alt="Profile Picture" width="150" align="left">
 
 # **FAUSTIN NIZEYIMANA**
 **Born:** February 28, 1998  
